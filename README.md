@@ -837,10 +837,7 @@ This project uses Prisma 7 which requires:
 - PostgreSQL adapter (`@prisma/adapter-pg`)
 - No `url` in schema.prisma datasource
 
-### **Ethereal Email**
-All emails are sent to Ethereal's fake SMTP server. You can view them at:
-- https://ethereal.email/messages
-- Login with: prince.senger76@ethereal.email / mw3rRHE8vJe1kfdETA
+
 
 ---
 
@@ -864,13 +861,7 @@ All emails are sent to Ethereal's fake SMTP server. You can view them at:
 
 ---
 
-## 👨‍💻 Author
 
-Created for the ReachInbox Software Development Intern Assignment.
-
-**Contact**: kinshuksaxena3@gmail.com
-**Number**:+91 9057538521
-**Linkedin**: https://www.linkedin.com/in/kinshuk-saxena-/
 
 ---
 
