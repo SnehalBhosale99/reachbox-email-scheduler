@@ -850,6 +850,9 @@ This project uses Prisma 7 which requires:
 - ✅ Loading states and error handling
 
 ---
+Created for the ReachInbox Software Development Intern Assignment.
+
+Contact: snehalab2004@gmail.com  
 
 
 
