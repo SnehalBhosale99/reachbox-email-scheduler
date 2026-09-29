@@ -525,16 +525,6 @@ enum EmailStatus {
 
 ---
 
-## 📝 Author
-
-**Created for ReachInbox Software Development Intern Assignment**
-
-- Repository: [Your GitHub Repo URL]
-- Demo Video: [Your Video URL]
-- Submission Date: February 2026
-
----
-
 ## 📄 License
 
 This project is created for educational and assessment purposes.
